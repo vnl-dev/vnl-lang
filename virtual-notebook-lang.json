@@ -1,0 +1,32 @@
+{
+    "VnlLangagues": [
+        "JS",
+        "Python",
+        "HTML",
+        "CSS",
+        "TS",
+        "Bash",
+        "PHP",
+        "Ruby",
+        "JSON",
+        "SQL",
+        "Perl",
+        "Go",
+        "Lua",
+        "C",
+        "C++",
+        "Java",
+        "Swift",
+        "Rust"
+    ],
+    "VnlFeatures": {
+        "Size": "586kB (600,704 bytes)",
+        "Location": "\\VNL\\src\\json-scripts\\virtual-notebook-lang.json",
+        "VNL Directory": "\\VNL",
+        "VNL Version": "1.0.0",
+        "VNL Author": "Vojtěch von Vostřák",
+        "VNL License": "MIT",
+        "VNL Description": "Virtual Notebook Language is a JSON file that contains all the languages that are supported by the Virtual Notebook. It is used to highlight the code in the notebook.", 
+        "VNL Usage": "The VNL is used to highlight the code in the Virtual Notebook. It is used to define the language of the code block and to apply syntax highlighting to the code."
+        }
+}
