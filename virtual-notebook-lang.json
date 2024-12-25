@@ -21,8 +21,8 @@
     ],
     "VnlFeatures": {
         "Size": "586kB (600,704 bytes)",
-        "Location": "\\VNL\\src\\json-scripts\\virtual-notebook-lang.json",
-        "VNL Directory": "\\VNL",
+        "Location": "virtual-notebook-lang.json",
+        "VNL Directory": "\\src",
         "VNL Version": "1.0.0",
         "VNL Author": "Vojtěch von Vostřák",
         "VNL License": "MIT",
